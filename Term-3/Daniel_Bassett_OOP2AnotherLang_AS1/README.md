@@ -1,0 +1,1 @@
+Please note that the files in this exercise folder usually contain pre-written code as a base to modify of which I am not the author.
